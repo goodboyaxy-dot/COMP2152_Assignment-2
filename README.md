@@ -6,8 +6,8 @@ Build a simple port scanner in Python. You'll use sockets, threading, SQLite, OO
 
 1. **Fork** this repo to your own GitHub account
 2. **Rename** the template files with your student ID:
-   - `assignment2_studentID.py` → `assignment2_YOURID.py`
-   - `test_assignment2_studentID.py` → `test_assignment2_YOURID.py`
+   - `assignment2_studentID.py` → `assignment2_101563874.py`
+   - `test_assignment2_studentID.py` → `test_assignment2_101563874.py`
 3. **Clone** your fork and create a branch called `feature_port_scanner`
 4. Do all your work on that branch
 5. When done, **merge** into `master` and push
